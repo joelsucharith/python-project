@@ -2,6 +2,8 @@
 
 Flask + MySQL expense tracker with a slide-based dashboard (Chart.js charts).
 
+Profile: [lokeshdevarakonda111-commits](https://github.com/lokeshdevarakonda111-commits)
+
 ## Folder structure
 ```
 python-project/
